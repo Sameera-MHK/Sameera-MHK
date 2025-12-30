@@ -21,7 +21,7 @@ I specialize in engineering high-performance, proprietary digital products. My c
 
 ---
 
-### 🔄 B2B ERP Middleware | Industrial Integration
+### 🔄 [B2B](https://ochoco.ae) ERP Middleware | Industrial Integration
 * **Problem:** Legacy Microsoft ERP instability during high-concurrency web traffic.
 * **Solution:** Architected an **Asynchronous Data Ingestion Pipeline** (ETL) using Node.js and MongoDB as a decoupled cache layer.
 * **Impact:** Enabled dynamic, contract-based pricing for B2B customers with sub-second response times.
