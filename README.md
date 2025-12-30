@@ -14,7 +14,7 @@ I specialize in engineering high-performance, proprietary digital products. My c
 
 ---
 
-### 🎓 Mentor.lk | EdTech RTC Infrastructure
+### 🎓 [Mentor.lk](https://mentora.lk) | EdTech RTC Infrastructure
 * **Innovation:** Built a self-hosted **WebRTC (LiveKit)** media server environment on Linux VPS to eliminate high API costs (Zoom/Google).
 * **Impact:** Supports 500+ concurrent students with zero per-user licensing fees.
 * **Key Tech:** Node.js, Docker, Nginx, LiveKit, MongoDB.
@@ -37,7 +37,7 @@ graph LR
 ~~~
 
 
-#### 🎮 Joker Game | Scalable MarTech
+#### 🎮 Joker Game (https://xl.notionspromos.com) | Scalable MarTech
 * **Scale:** Processed **370k+ unique cryptographic codes** for 22k+ active users.
 * **Security:** Engineered a high-entropy reward algorithm to prevent brute-force attacks on $30k+ prize pools.
 
