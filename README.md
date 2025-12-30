@@ -57,9 +57,9 @@ graph LR
 
 ### 📊 Stats & Impact
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sameera-MHK&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameera-mhk&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera-MHK&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameera-mhk&layout=compact&theme=radical)
 
 ---
 
