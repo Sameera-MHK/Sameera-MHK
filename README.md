@@ -5,22 +5,30 @@ I specialize in engineering high-performance, proprietary digital products. My c
 
 ---
 
-### 🏛️ Featured Enterprise Architecture
+## 🏛️ Featured Enterprise Architecture
 
-#### 🔗 [Leisurery.com](https://leisurery.com) | TravelTech Founder
+### 🔗 [Leisurery.com](https://leisurery.com) | TravelTech Founder
 * **Role:** Founder & Lead Architect
 * **Innovation:** Engineered a custom **Multi-Vendor Booking Engine** that currently powers 150+ star hotels and 30+ independent property owners.
 * **Tech:** MERN Stack, Scalable Multi-tenant Architecture, Automated Financial Settlement Logic.
 
-#### 🎓 Mentor.lk | EdTech RTC Infrastructure
+---
+
+### 🎓 Mentor.lk | EdTech RTC Infrastructure
 * **Innovation:** Built a self-hosted **WebRTC (LiveKit)** media server environment on Linux VPS to eliminate high API costs (Zoom/Google).
-* **Impact:** Supports 500+ concurrent students with zero per-user licensing fees. 
+* **Impact:** Supports 500+ concurrent students with zero per-user licensing fees.
 * **Key Tech:** Node.js, Docker, Nginx, LiveKit, MongoDB.
 
-#### 🔄 B2B ERP Middleware | Industrial Integration
+---
+
+### 🔄 B2B ERP Middleware | Industrial Integration
 * **Problem:** Legacy Microsoft ERP instability during high-concurrency web traffic.
 * **Solution:** Architected an **Asynchronous Data Ingestion Pipeline** (ETL) using Node.js and MongoDB as a decoupled cache layer.
 * **Impact:** Enabled dynamic, contract-based pricing for B2B customers with sub-second response times.
+
+**Architecture Overview**
+
+```mermaid
 graph LR
     A[Microsoft ERP] -- "Cron Sync (15m)" --> B(Node.js Middleware)
     B -- "ETL Process" --> C[(MongoDB Cache)]
