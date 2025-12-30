@@ -26,14 +26,6 @@ I specialize in engineering high-performance, proprietary digital products. My c
 * **Solution:** Architected an **Asynchronous Data Ingestion Pipeline** (ETL) using Node.js and MongoDB as a decoupled cache layer.
 * **Impact:** Enabled dynamic, contract-based pricing for B2B customers with sub-second response times.
 
-**Architecture Overview**
-
-```mermaid
-graph LR
-    A[Microsoft ERP] -- "Cron Sync (15m)" --> B(Node.js Middleware)
-    B -- "ETL Process" --> C[(MongoDB Cache)]
-    C -- "Dynamic Price Query" --> D[React B2B Portal]
-    D -- "User Login" --> C
 
 #### 🎮 Joker Game | Scalable MarTech
 * **Scale:** Processed **370k+ unique cryptographic codes** for 22k+ active users.
