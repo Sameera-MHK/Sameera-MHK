@@ -37,7 +37,7 @@ graph LR
 ~~~
 
 
-#### 🎮 Joker Game (https://xl.notionspromos.com) | Scalable MarTech
+#### 🎮 [Joker Game](https://xl.notionspromos.com) | Scalable MarTech
 * **Scale:** Processed **370k+ unique cryptographic codes** for 22k+ active users.
 * **Security:** Engineered a high-entropy reward algorithm to prevent brute-force attacks on $30k+ prize pools.
 
